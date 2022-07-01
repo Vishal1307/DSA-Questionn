@@ -1,0 +1,22 @@
+{
+  "name": "dsa-questionn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal1307/DSA-Questionn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal1307/DSA-Questionn/issues"
+  },
+  "homepage": "https://github.com/Vishal1307/DSA-Questionn#readme",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
